@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnvNDho3k08=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ClientApi\\ClientApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512"
+  ],
+  "logs": []
+}
